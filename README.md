@@ -1,9 +1,5 @@
 # chatgpt
 
-**写在最前：**
-
-ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全可以作为生产力工具应用在很多领域。可以说ChatGPT是最近几年又一个的巨大风口，目前大量投资机构和政府部门都在鼓励和支持相关行业的发展。如果您也有使用ChatGPT赚钱或创业的想法，欢迎免费进群讨论，二维码在本文最后。群里有很多志同道合的朋友一起分享资讯，分享知识，对接资源。另外请点下右上角的小星星，方便您随时找到本项目。
-
 **首次使用配置：**
 
 请访问 http://你的域名/key.php 配置您的API_KEY列表，程序将全局自动循环调用。默认用户名：admin，默认密码：admin@2023。默认用户名密码可以在key.php文件中修改。
@@ -22,8 +18,6 @@ ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全
 10. 服务器自动记录所有访问者的对话日志和IP地址，方便管理员查询。
 11. 支持API_KEY自动轮询，解决5美元账户每分钟限制查询3次的问题。
 12. 支持调用OpenAI官方接口画图，提问的第一个字是“画”即可生成图片。
-
-**本项目定位是个人或朋友之间分享使用，轻量设计，不计划引入数据库等复杂功能。有需要的用户可以自行拿去修改，版权没有，改动不究。对于项目UI或其他功能有改进想法的朋友欢迎提交PR，或者在Issues或Discussions进行讨论。**
 
 ------
 # 测试网址：http://mm1.ltd
@@ -91,20 +85,3 @@ https://platform.openai.com/docs/guides/chat/introduction
 https://platform.openai.com/docs/api-reference/models/list
 
 ------
-**对chatgpt感兴趣的同学们欢迎加群讨论。群里有很多大神，有问题可以互相帮助。**
-
-由于群里人数已超过200，无法直接扫码进群，想进群的朋友可以加热心网友小号，由他帮忙拉进群。
-
-![微信截图_20230306154434](https://user-images.githubusercontent.com/5563148/223048985-4cac05cb-acf0-4f04-aad5-1c3dcec609d0.png)
-
-
-
-
-有热心网友建议我放个打赏码，各位如果真的想表达感谢，小额即可。
-
-![打赏码](https://user-images.githubusercontent.com/5563148/222968018-9def451a-bbce-4a7e-bde6-edecc7ced40f.jpg)
-
-最后，我还做了个在微信个人订阅号中通过调用OpenAI最新接口和gpt-3.5-turbo模型实现ChatGPT聊天机器人的功能，已开源，需要的朋友也可以拿去。
-https://github.com/dirk1983/chatgpt-wechat-personal
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dirk1983/chatgpt&type=Date)](https://star-history.com/#dirk1983/chatgpt&Date)
